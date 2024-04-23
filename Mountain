@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+</head><center><h1><u>Internal css.!</u></h1></center>
+</head>
+<style>
+
+body {
+background-image:url("https://img.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_188544-8052.jpg");
+background-size:800px 500px;
+background-repeat:no-repeat;
+}
+        h2 {
+            color: INDIGO;
+            font-size: 44px;
+            text-shadow:4px 5px 7px white;
+           text-decoration: underline overline;
+
+        }
+ 
+        .para{
+            color: violet;
+            font-size: 36px;
+            font-style:fantasy;
+            text-decoration:line-through;
+            text-align:center;
+            border-style:solid;
+        }
+
+
+    </style>
+</head>
+ 
+<body>
+    <h2>the background image specifies about car.!</h2><br><br>
+    <p class="para">It will show some random paragraph.!</p>
+
+</body>
+</html>
